@@ -4,5 +4,5 @@
 已完成：<br>
 操作系统复现实验 《Orange's:一个操作系统的实现》<br>
 待完成：（预计暑假和大三完成）<br>
-清华大学 rCore <br> ✅
-MIT 6.s081Lab <br> ✅
+清华大学 rCore ✅ <br> 
+MIT 6.s081Lab ✅ <br> 
