@@ -182,9 +182,7 @@ hwint00:		; Interrupt routine for irq 0 (the clock).
 	call	disp_str
 	add	esp, 4
 
-;;; 	push	1
-;;; 	call	delay
-;;; 	add	esp, 4
+
 	
 	cli
 	

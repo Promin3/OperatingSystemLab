@@ -43,7 +43,7 @@ PUBLIC void init_keyboard()
 	kb_in.p_head = kb_in.p_tail = kb_in.buf;
 
         put_irq_handler(KEYBOARD_IRQ, keyboard_handler);/*设定键盘中断处理程序*/
-        enable_irq(KEYBOARD_IRQ);                       /*开键盘中断*/
+        enable_irq(KEYBOARD_IRQ);                       /*开键盘中断*，使系统能够接收键盘中断信号并触发相应的中断处理程序/
 }
 
 

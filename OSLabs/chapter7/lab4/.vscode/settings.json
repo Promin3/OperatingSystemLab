@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cstdio": "c",
+        "chrono": "c",
+        "unordered_map": "c"
+    }
+}
